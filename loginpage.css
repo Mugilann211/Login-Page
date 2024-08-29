@@ -1,0 +1,79 @@
+body{
+    background: linear-gradient(120deg,#2980b9, #8e44ad);
+    margin: 0;
+    padding: 0;
+    background-color: blueviolet;
+
+}
+
+h1{
+    padding-top: 30px;
+}
+.lo{
+    width: 300px;
+    height: 400px;
+    margin-top: 200px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.3);
+    background-color: white;
+    border-radius: 20px;
+}
+
+.em{
+    margin-top: 40px;
+    margin-bottom: 10px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: none;
+    box-shadow: 0px 3px 0px rgba(0, 0, 0, 0.1);
+    border-radius: 3px;
+}
+
+.pa{
+    margin-bottom: 30px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: none;
+    border-radius: 3px;
+    box-shadow: 0px 3px 0px rgba(0, 0, 0, 0.1);
+}
+
+.tex{
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 80px;
+    padding-right: 80px;
+    text-align: center;
+    background: linear-gradient(120deg,#2980b9, #8e44ad);
+    color: white;
+    outline: none;
+    font-weight: bold; 
+}
+
+.tex:hover{
+    cursor: pointer;
+    opacity: 0.5;
+}
+
+.sign{
+    color: #2691d9;
+}
+
+.pass{
+    color: #2691d9;
+}
+
+.pass:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.sign:hover{
+    cursor: pointer;
+    text-decoration: underline;
+   
+}
